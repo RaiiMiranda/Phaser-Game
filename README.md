@@ -3,7 +3,7 @@
   # 🎮 Aistorm
   <img src="https://img.shields.io/static/v1?message=Phaser&label=&color=545454&labelColor=&style=for-the-badge" height="25" alt="Phaser" />
   <img src="https://img.shields.io/static/v1?message=JavaScript&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="JavaScript" />
-C%2B%2B
+
 </div>
 
 <br>
