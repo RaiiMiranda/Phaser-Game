@@ -9,9 +9,7 @@
 <br>
 
 <img src="img/github/cena-menu.png" alt="Preview Menu Principal" width="100%">
-<img src="img/github/img2.png" alt="Preview do Site" width="100%">
-<img src="img/github/img3.png" alt="Preview do Site" width="100%">
-<img src="img/github/img4.png" alt="Preview do Site" width="100%">
+<img src="img/github/map-aistorm.png" alt="Preview do Site" width="100%">
 
 <p> Um jogo 2D top-down <strong>front-end responsivo</strong> sobre o universo da fotografia, desenvolvido para colocar em prática habilidades como <strong>HTML, CSS e JS</strong>. </p>
 
