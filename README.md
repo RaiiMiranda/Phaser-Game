@@ -17,10 +17,10 @@
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top"> <br>
       <img src="https://img.shields.io/static/v1?message=Hist%C3%B3ria&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="História" /> 
-      <p>A história se passa em 2147, época em que Aistorm, uma inteligência artificial criada por humanos, controla de forma autoritária toda a estrutura digital do mundo. </p>
-        <p>Para retomar o controle, uma agente chamada Yoko é enviada para restaurar os nós de memória do sistema.</p>
+      <br> <br>
+      <p align="justify">A história se passa em 2147, época em que Aistorm, uma inteligência artificial criada por humanos, controla de forma autoritária toda a estrutura digital do mundo. Para retomar o controle, uma agente chamada Yoko é enviada para restaurar os nós de memória do sistema.</p> <br>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://img.shields.io/static/v1?message=Ferramentas%20e%20Tecnologias&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="Ferramentas" />
