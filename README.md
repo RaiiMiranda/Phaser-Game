@@ -25,5 +25,3 @@
   <li>Itch.io</li>
   <li>Pixabay</li>
 </ul>
-
-<br>
