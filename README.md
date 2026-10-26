@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/static/v1?message=Ferramentas%20e%20Tecnologias&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="Ferramentas" />
 <ul>
   <li>Motor de Jogo: Phaser 3 (JavaScript)</li>
-  <li>Design de Mapas: Tiled (Versao 1.12.2)</li>
+  <li>Design de Mapas: Tiled (Versão 1.12.2)</li>
   <li>Arte e Elementos Visuais: Criados no Aseprite e recursos do Itch.io</li>
   <li>Efeitos Sonoros e Musicas: Pixabay</li>
 </ul>
