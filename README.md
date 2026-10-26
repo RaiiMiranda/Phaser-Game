@@ -24,7 +24,3 @@
   <li>Arte e Elementos Visuais: Criados no Aseprite e recursos do Itch.io</li>
   <li>Efeitos Sonoros e Musicas: Pixabay</li>
 </ul>
-
-<br>
-
-colocar o link do jogo aqui
